@@ -18,7 +18,7 @@ export const Hero = () => {
         <div className="flex justify-center mt-8">
           <div className="inline-flex relative">
             <h1 className="text-7xl sm:text-9xl font-bold tracking-tight text-center inline-flex">
-              Dígalo<br />Habla sin límites
+              LSA<br />Habla sin límites
             </h1>
             <motion.div
               className="absolute right-[55vw] top-[40vh] hidden sm:inline"
